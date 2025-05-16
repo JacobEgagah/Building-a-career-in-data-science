@@ -18,7 +18,8 @@ This repository is a curated journey through the world of data science — begin
   - *Python Basics*   
   - Install Python & VS Code  
   - Data Types & Structures  
-  - Operators & Control Flow  
+  - Operators & Control Flow
+  - If, Elif & Else Statements  
   - Loops  
   - Functions & Modules  
   - Exception & File Handling  
